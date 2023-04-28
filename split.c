@@ -1,7 +1,5 @@
 /*
  * File: 0x16. C - Simple Shell
- * Auth: Yousra Boudouft
- *       Ahmed Diaa Al-shahat Ibrahim
  */
 #include "shell.h"
 
