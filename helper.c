@@ -1,7 +1,5 @@
 /*
  * File: helper.c
- * Auth: Ahmed Diaa Al-shahat Ibrahim
- *       Yousra Boudouft
  */
 
 #include "shell.h"
