@@ -1,7 +1,5 @@
 /*
  * File: err_msgs1.c
- * Auth: Ahmed Diaa Al-shahat Ibrahim
- *       Yousra Boudouft
  */
 
 #include "shell.h"
