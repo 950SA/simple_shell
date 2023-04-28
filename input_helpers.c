@@ -1,7 +1,5 @@
 /*
  * File: builtin.c
- * Auth: Yousra Boudouft
- *       Ahmed Diaa Al-shahat Ibrahim
  */
 
 #include "shell.h"
